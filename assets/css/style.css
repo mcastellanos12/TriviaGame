@@ -1,0 +1,32 @@
+
+.header{
+	text-align: center;
+	color: pink;
+	border-radius: 10px;
+	padding: 1 0 1 0;
+	background: url("https://rbcloud.blob.core.windows.net/business/ef3fc546-df75-4ebd-a91e-a4e5010622e1/bannercrm_ahtgvxnvpt.SanAntonioSpurs_crop.jpg");
+	background-size: 550px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.body{
+	text-align: center;
+	border-style: solid;
+	border: 3 3 3 3;
+	border-radius: 10px;
+	margin-top: 5px;
+	background-color: pink;
+}
+
+.question{
+	text-align: center;
+	border-style: solid;
+	border: 3 3 3 3;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	background-color: silver;
+}
