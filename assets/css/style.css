@@ -30,3 +30,25 @@
 	padding-bottom: 5px;
 	background-color: silver;
 }
+
+#nameOfQuiz{
+	text-align: center;
+	border-style: solid;
+	border: 3 3 3 3;
+	border-radius: 10px;
+	margin-top: 120px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	background-color: silver;
+	
+}
+
+header {
+	background: url("http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/spurs/Schad/img/PostgameTeams/SAS.png");
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+
+}
