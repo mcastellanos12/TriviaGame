@@ -1,5 +1,105 @@
+html,
+body {
 
-.header{
+  height:100%;
+}
+
+body {
+
+  background-image: url('../images/Spur.png');
+  text-align: center;
+
+
+}
+
+.jumbotron {
+
+  margin:5.5% auto;
+  background-color: silver;
+  width:695px;
+  height:200px;
+  text-orientation: center;
+
+
+}
+
+.container {
+	height:325px;
+	width:695px;
+	background-color: silver;
+	padding-bottom: 25px;
+}
+
+#sub-wrapper {
+
+  position: relative;
+  top:15%;
+
+}
+
+button {
+
+  display:block;
+  width:50%;
+  height:20%;
+  margin: 0 auto;
+  border:none;
+  cursor: pointer;
+  background:transparent;
+  font-size: 30px;;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+img {
+
+  height:200px;
+  background: rgba(76, 175, 80, 0.3)
+
+
+}
+
+h1 {
+
+  font-family: 'Frijole', cursive;
+  font-size: 6.5em;
+  /*font-weight: bold;*/
+  color:black;
+  padding-bottom: 5px;
+
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 35px;
+  margin-bottom: 5px;
+
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  margin-bottom: 30px;
+
+}
+
+#start {
+
+  margin-top: 10%;
+  border:2px white;
+  background: black;
+  color: white;
+
+}
+
+button:hover {
+
+  border:2px blue;
+  background: pink;
+
+}
+
+/*.header{
 	text-align: center;
 	color: pink;
 	border-radius: 10px;
@@ -52,3 +152,4 @@ header {
 
 
 }
+*/
