@@ -26,22 +26,22 @@ var questions = [{
   question: "What year did the Spurs win their first championship?",
   answers: ["1993", "2001", "1999", "1996"],
   correctAnswer: "1999",
-  image: "1999.jpg"
+  image: "assets/images/1999.jpg"
 }, {
   question: "What position does Tony Parker play?",
   answers: ["Power forward", "Shooting guard", "Point guard", "Small forward"],
   correctAnswer: "Point guard",
   image: "assets/images/TonyParker.jpg"
 }, {
-  question: "How many years did Tim Duncan play with the Spurs",
+  question: "How many seasons did Tim Duncan play with the Spurs?",
   answers: ["16", "12", "21", "19"],
   correctAnswer: "19",
   image: "assets/images/TimDuncanRetirement.jpg"
 }, {
   question: "The San Antonio Spurs were originally founded as ...",
-  answers: ["Houston Bobcats", "El Paso Coyotes", "Portland Eagles", "Dallas Chapparals"],
-  correctAnswer: "Dallas Chapparals",
-  image: "assets/images/DallasChapparals.jpg"
+  answers: ["Houston Bobcats", "El Paso Coyotes", "Portland Eagles", "Dallas Chaparrals"],
+  correctAnswer: "Dallas Chaparrals",
+  image: "assets/images/DallasChaparrals.jpg"
 }];
 
 // Variable to hold our setInterval

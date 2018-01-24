@@ -6,19 +6,11 @@ body {
 
 body {
 
-  background-image: url('../images/Spur.png');
+  background-image: url('../images/att.jpg');
+  background-size: 100%;
   text-align: center;
-
-
-}
-
-.jumbotron {
-
-  margin:5.5% auto;
-  background-color: silver;
-  width:695px;
-  height:200px;
-  text-orientation: center;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
 
 
 }
@@ -26,7 +18,8 @@ body {
 .container {
 	height:325px;
 	width:695px;
-	background-color: silver;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.8);
 	padding-bottom: 25px;
 }
 
@@ -54,18 +47,17 @@ button {
 img {
 
   height:200px;
-  background: rgba(76, 175, 80, 0.3)
-
-
+ 
 }
 
 h1 {
-
+	padding-top: 100px;
   font-family: 'Frijole', cursive;
-  font-size: 6.5em;
+  font-size: 4.5em;
   /*font-weight: bold;*/
-  color:black;
-  padding-bottom: 5px;
+  color: white;
+  
+  text-shadow: black 0.1em 0.1em 0.2em;  
 
 }
 
@@ -73,6 +65,7 @@ h2 {
   font-family: 'Roboto Slab', serif;
   font-size: 35px;
   margin-bottom: 5px;
+  color: white;
 
 }
 
@@ -80,6 +73,7 @@ h3 {
   font-family: 'Roboto Slab', serif;
   font-size: 15px;
   margin-bottom: 30px;
+  color: white;
 
 }
 
@@ -90,6 +84,7 @@ h3 {
   background: black;
   color: white;
 
+
 }
 
 button:hover {
@@ -99,57 +94,9 @@ button:hover {
 
 }
 
-/*.header{
-	text-align: center;
+.titleText {
+
 	color: pink;
-	border-radius: 10px;
-	padding: 1 0 1 0;
-	background: url("https://rbcloud.blob.core.windows.net/business/ef3fc546-df75-4ebd-a91e-a4e5010622e1/bannercrm_ahtgvxnvpt.SanAntonioSpurs_crop.jpg");
-	background-size: 550px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
-}
-
-.body{
-	text-align: center;
-	border-style: solid;
-	border: 3 3 3 3;
-	border-radius: 10px;
-	margin-top: 5px;
-	background-color: pink;
-}
-
-.question{
-	text-align: center;
-	border-style: solid;
-	border: 3 3 3 3;
-	border-radius: 10px;
-	margin-top: 10px;
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-bottom: 10px;
-	padding-bottom: 5px;
-	background-color: silver;
-}
-
-#nameOfQuiz{
-	text-align: center;
-	border-style: solid;
-	border: 3 3 3 3;
-	border-radius: 10px;
-	margin-top: 120px;
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-bottom: 10px;
-	padding-bottom: 5px;
-	background-color: silver;
 	
 }
 
-header {
-	background: url("http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/spurs/Schad/img/PostgameTeams/SAS.png");
-	padding-top: 50px;
-	padding-bottom: 50px;
-
-
-}
-*/
